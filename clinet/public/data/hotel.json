@@ -1,0 +1,1857 @@
+[
+	{
+		"id": 84557,
+		"agentId": 1634,
+		"title": "Royal Heritage Resort",
+		"slug": "royal-heritage-resort",
+		"content": "Welcome to the Royal Heritage Resort, a place of luxury and tranquility. Our resort offers a range of premium amenities and impeccable services to ensure you have a memorable stay. Discover the beauty of India while staying in our elegant rooms and suites. Contact us at +91 324 731 4990 x405 for reservations.",
+		"status": "publish",
+		"price": "377.00",
+		"isNegotiable": true,
+		"propertyType": "Villa",
+		"condition": "Excellent",
+		"rating": 4.5,
+		"ratingCount": 120,
+		"contactNumber": "+91 324 731 4990 x405",
+		"termsAndCondition": "By booking with us, you agree to the terms and conditions of the Royal Heritage Resort. Enjoy a hassle-free experience with our free cancellation policy.",
+		"amenities": [
+			{
+				"id": 17360,
+				"guestRoom": 1
+			},
+			{
+				"id": 19945,
+				"bedRoom": 2
+			},
+			{
+				"id": 4297,
+				"wifiAvailability": true
+			},
+			{
+				"id": 77928,
+				"parkingAvailability": false
+			},
+			{
+				"id": 78700,
+				"poolAvailability": true
+			},
+			{
+				"id": 1477,
+				"airCondition": false
+			},
+			{
+				"id": 84627,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 49595,
+			"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-7.jpg",
+			"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-7_thumb.jpg"
+		},
+		"location": {
+			"id": 74790,
+			"lat": 41.0941,
+			"lng": -73.81,
+			"formattedAddress": "398 Sydnee Unions",
+			"zipcode": "93251",
+			"city": "Jaipur",
+			"state_long": "Rajasthan",
+			"state_short": "RJ",
+			"country_long": "India",
+			"country_short": "IN"
+		},
+		"gallery": [
+			{
+				"id": 58613,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-8_thumb.jpg"
+			},
+			{
+				"id": 44236,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-9_thumb.jpg"
+			},
+			{
+				"id": 21946,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-10_thumb.jpg"
+			}
+		],
+		"categories": [
+			{
+				"id": 39767,
+				"slug": "Luxury",
+				"name": "Luxury",
+				"image": {
+					"id": 58629,
+					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-11.jpg"
+				}
+			},
+			{
+				"id": 25062,
+				"slug": "Heritage",
+				"name": "Heritage",
+				"image": {
+					"id": 4891,
+					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-12.jpg"
+				}
+			}
+		]
+	},
+	{
+		"id": 3897,
+		"agentId": 11936,
+		"title": "Taj Mahal View Inn",
+		"slug": "taj-mahal-view-inn",
+		"content": "Experience the breathtaking view of the Taj Mahal from our exclusive Taj Mahal View Inn. Our hotel offers comfortable rooms and warm hospitality, making it a perfect choice for travelers visiting the iconic monument. Call us at +91 1-086-577-2962 x19809 to book your stay.",
+		"status": "publish",
+		"price": "30.00",
+		"isNegotiable": true,
+		"propertyType": "Hotel",
+		"condition": "Average",
+		"rating": 3.8,
+		"ratingCount": 85,
+		"contactNumber": "+91 1-086-577-2962 x19809",
+		"termsAndCondition": "Guests must abide by the rules and regulations of Taj Mahal View Inn. Enjoy your stay with our complimentary breakfast and 24-hour room service.",
+		"amenities": [
+			{
+				"id": 48116,
+				"guestRoom": 4
+			},
+			{
+				"id": 24715,
+				"bedRoom": 2
+			},
+			{
+				"id": 69933,
+				"wifiAvailability": false
+			},
+			{
+				"id": 9822,
+				"parkingAvailability": false
+			},
+			{
+				"id": 70076,
+				"poolAvailability": false
+			},
+			{
+				"id": 261,
+				"airCondition": false
+			},
+			{
+				"id": 6100,
+				"extraBedFacility": false
+			}
+		],
+		"image": {
+			"id": 1719,
+			"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-13.jpg",
+			"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-13_thumb.jpg"
+		},
+		"location": {
+			"id": 34339,
+			"lat": 40.8785,
+			"lng": -72.7553,
+			"formattedAddress": "95573 Jess Drive",
+			"zipcode": "47683-5802",
+			"city": "Agra",
+			"state_long": "Uttar Pradesh",
+			"state_short": "UP",
+			"country_long": "India",
+			"country_short": "IN"
+		},
+		"gallery": [
+			{
+				"id": 14495,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-14_thumb.jpg"
+			},
+			{
+				"id": 83768,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-15_thumb.jpg"
+			},
+			{
+				"id": 57361,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-16_thumb.jpg"
+			}
+		],
+		"categories": [
+			{
+				"id": 59952,
+				"slug": "Heritage",
+				"name": "Heritage",
+				"image": {
+					"id": 81026,
+					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-17.jpg"
+				}
+			},
+			{
+				"id": 74444,
+				"slug": "Comfort",
+				"name": "Comfort",
+				"image": {
+					"id": 14937,
+					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-18.jpg"
+				}
+			}
+		]
+	},
+	{
+		"id": 63288,
+		"agentId": 38076,
+		"title": "Traditional Indian Sari",
+		"slug": "Traditional Indian Sari",
+		"content": "Explore the beauty of India with our handcrafted Traditional Indian Sari. Embrace the elegance and rich culture of India with our exquisite collection. Each sari is a work of art, representing the diverse traditions of the country. Contact us at +91 1-114-147-7099 for more details and orders.",
+		"status": "publish",
+		"price": "223.00",
+		"isNegotiable": false,
+		"propertyType": "Villa",
+		"condition": "Poor",
+		"rating": 3,
+		"ratingCount": 1,
+		"contactNumber": "9990129213",
+		"termsAndCondition": "Qui sit omnis rerum rerum natus cumque earum qui. Optio facilis doloremque. Corrupti est est aperiam molestias animi animi minima neque. Enim numquam et consectetur dicta error doloribus molestiae quibusdam. Quia est est.",
+		"amenities": [
+			{
+				"id": 42453,
+				"guestRoom": 8
+			},
+			{
+				"id": 30289,
+				"bedRoom": 6
+			},
+			{
+				"id": 5821,
+				"wifiAvailability": true
+			},
+			{
+				"id": 22411,
+				"parkingAvailability": true
+			},
+			{
+				"id": 95762,
+				"poolAvailability": true
+			},
+			{
+				"id": 27621,
+				"airCondition": false
+			},
+			{
+				"id": 96437,
+				"extraBedFacility": false
+			}
+		],
+		"image": {
+			"id": 90096,
+			"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-1.jpg",
+			"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-1_thumb.jpg"
+		},
+		"location": {
+			"id": 67404,
+			"lat": 40.706877,
+			"lng": -74.011265,
+			"formattedAddress": "52623 Donnie Roads",
+			"zipcode": "68225-1064",
+			"city": "Nestorview",
+			"state_long": "Washington",
+			"state_short": "WY",
+			"country_long": "Tanzania",
+			"country_short": "VN"
+		},
+		"gallery": [
+			{
+				"id": 11287,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-2_thumb.jpg"
+			},
+			{
+				"id": 51759,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-3_thumb.jpg"
+			},
+			{
+				"id": 1888,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-4_thumb.jpg"
+			}
+		],
+		"categories": [
+			{
+				"id": 87372,
+				"slug": "Practical",
+				"name": "Tasty",
+				"image": {
+					"id": 22552,
+					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-5.jpg"
+				}
+			},
+			{
+				"id": 96762,
+				"slug": "Handmade",
+				"name": "Generic",
+				"image": {
+					"id": 77761,
+					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-6.jpg"
+				}
+			}
+		]
+	},
+	{
+		"id": 65362,
+		"agentId": 2125,
+		"title": "HOTEL DIPLOMAT CHANAKYAPURI",
+		"slug": "beautiful-HOTEL-DIPLOMAT-CHANAKYAPURI",
+		"content": "Located in the heart of New Delhi, our hotel offers a blend of modern comfort and traditional Indian hospitality. Indulge in delicious Indian cuisine, experience the rich culture and heritage, and explore the vibrant markets nearby. Our spacious rooms, friendly staff, and top-notch amenities ensure a memorable stay.",
+		"status": "draft",
+		"price": "5500.00",
+		"isNegotiable": true,
+		"propertyType": "Hotel",
+		"condition": "Excellent",
+		"rating": 5,
+		"ratingCount": 35,
+		"contactNumber": "1-403-000-9038 x910",
+		"termsAndCondition": "Sed natus quia earum atque libero dolore natus mollitia. Quibusdam quibusdam fugiat similique et. Aut quo natus est consequatur.",
+		"amenities": [
+			{
+				"id": 11895,
+				"wifiAvailability": true,
+				"amenityText": "Free Wi-Fi",
+				"slug": "free-wifi"
+			},
+			{
+				"id": 14671,
+				"parkingAvailability": true,
+				"amenityText": "Free Parking",
+				"slug": "free-parking"
+			},
+			{
+				"id": 25396,
+				"poolAvailability": true,
+				"amenityText": "Free Pool",
+				"slug": "pool"
+			},
+			{
+				"id": 89598,
+				"airCondition": false,
+				"amenityText": "Air Condition",
+				"slug": "air-condition"
+			}
+		],
+		"image": {
+			"id": 41632,
+			"url": "/images/3.jpg",
+			"thumb_url": "/images/2.jpg"
+		},
+		"location": {
+			"id": 48797,
+			"lat": 28.6139,
+			"lng": 77.2090,
+			"formattedAddress": "New Delhi, India",
+			"zipcode": "110001",
+			"city": "New Delhi",
+			"state_long": "Delhi",
+			"state_short": "DL",
+			"country_long": "India",
+			"country_short": "IN"
+		},
+		"gallery": [
+			{
+				"id": 49921,
+				"url": "/images/3.jpg"
+			},
+			{
+				"id": 43045,
+				"url": "/images/2.jpg"
+			},
+			{
+				"id": 19843,
+				"url": "/images/1.webp"
+			}
+		],
+		"categories": [
+			{
+				"id": 15109,
+				"slug": "Ergonomic",
+				"name": "Unbranded",
+				"image": {
+					"id": 99921,
+					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single5.jpg"
+				}
+			},
+			{
+				"id": 85959,
+				"slug": "Small",
+				"name": "Rustic",
+				"image": {
+					"id": 30943,
+					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single6.jpg"
+				}
+			}
+		],
+		"reviews": [
+			{
+				"reviewID": 77370,
+				"reviewTitle": "A Wonderful Experience",
+				"reviewText": "I had a fantastic stay at this hotel. The service was excellent, the rooms were comfortable and clean, and the food was delicious. The staff was incredibly friendly and made me feel right at home. I highly recommend this hotel to anyone visiting New Delhi.",
+				"reviewAuthorId": 39531,
+				"reviewAuthorFirstName": "Terrance",
+				"reviewAuthorLastName": "Wolff",
+				"reviewAuthorEmail": "Reed_Okuneva@yahoo.com",
+				"reviewAuthorPic": {
+					"id": 984,
+					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single7.jpg"
+				},
+				"reviewDate": "2018-11-25T01:20:05.316Z",
+				"reviewFields": [
+					{
+						"id": 56278,
+						"rating": 4,
+						"ratingFieldName": "Service"
+					},
+					{
+						"id": 296,
+						"rating": 1,
+						"ratingFieldName": "Room"
+					},
+					{
+						"id": 30575,
+						"rating": 3,
+						"ratingFieldName": "Cleanness"
+					},
+					{
+						"id": 11857,
+						"rating": 3,
+						"ratingFieldName": "Food"
+					}
+				]
+			},
+			{
+				"reviewID": 23288,
+				"reviewTitle": "Great Stay!",
+				"reviewText": "I had a pleasant experience at this hotel. The staff was helpful and accommodating, and the rooms were cozy and well-maintained. The location was convenient, allowing me to explore the city easily. I would definitely stay here again.",
+				"reviewAuthorId": 85017,
+				"reviewAuthorFirstName": "Harmon",
+				"reviewAuthorLastName": "Bechtelar",
+				"reviewAuthorEmail": "Jacklyn.Corwin49@yahoo.com",
+				"reviewAuthorPic": {
+					"id": 18652,
+					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single3.jpg"
+				},
+				"reviewDate": "2018-02-28T00:50:14.479Z",
+				"reviewFields": [
+					{
+						"id": 50043,
+						"rating": 1,
+						"ratingFieldName": "Service"
+					},
+					{
+						"id": 44884,
+						"rating": 3,
+						"ratingFieldName": "Room"
+					},
+					{
+						"id": 15340,
+						"rating": 3,
+						"ratingFieldName": "Cleanness"
+					},
+					{
+						"id": 79946,
+						"rating": 3,
+						"ratingFieldName": "Food"
+					}
+				]
+			},
+			{
+				"reviewID": 57342,
+				"reviewTitle": "Highly Recommended",
+				"reviewText": "My stay at this hotel was amazing. The service was impeccable, the rooms were luxurious, and the food was delicious. The hotel's location was perfect for exploring the city. I would definitely choose this hotel again on my next visit to New Delhi.",
+				"reviewAuthorId": 52646,
+				"reviewAuthorFirstName": "Isom",
+				"reviewAuthorLastName": "Conn",
+				"reviewAuthorEmail": "Mozelle34@yahoo.com",
+				"reviewAuthorPic": {
+					"id": 44935,
+					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single6.jpg"
+				},
+				"reviewDate": "2018-05-26T06:11:41.520Z",
+				"reviewFields": [
+					{
+						"id": 71865,
+						"rating": 1,
+						"ratingFieldName": "Service"
+					},
+					{
+						"id": 57470,
+						"rating": 5,
+						"ratingFieldName": "Room"
+					},
+					{
+						"id": 98655,
+						"rating": 3,
+						"ratingFieldName": "Cleanness"
+					},
+					{
+						"id": 98138,
+						"rating": 4,
+						"ratingFieldName": "Food"
+					}
+				]
+			}
+		]
+	},
+		{
+			"id": 96119,
+			"agentId": 8273,
+			"title": "Exquisite Indian Resort",
+			"slug": "voluptas-repellendus-tempore-indian-resort",
+			"content": "At veritatis dolorem amet porro omnis adipisci quibusdam et. Eum voluptatem rerum. Iste non molestiae qui. Eligendi dolorum deserunt reprehenderit odio veritatis officia. Culpa totam assumenda voluptas rem dolorem nemo quos autem repellendus.",
+			"status": "draft",
+			"price": "540.00",
+			"isNegotiable": false,
+			"propertyType": "Villa",
+			"condition": "Good",
+			"rating": 1.2,
+			"ratingCount": 16,
+			"contactNumber": "(769) 042-0200 x675",
+			"termsAndCondition": "Facere autem est cumque. Officiis omnis consequatur omnis aut minima accusamus quibusdam dolores. Consequatur autem reiciendis delectus illo adipisci. Doloribus fuga blanditiis dicta. Excepturi quis facilis quia est amet ut vitae dolore. Et debitis corrupti hic aut amet maiores adipisci magni repellendus.",
+			"amenities": [
+				{
+					"id": 24608,
+					"guestRoom": 3
+				},
+				{
+					"id": 28103,
+					"bedRoom": 2
+				},
+				{
+					"id": 16998,
+					"wifiAvailability": true
+				},
+				{
+					"id": 97429,
+					"parkingAvailability": false
+				},
+				{
+					"id": 38546,
+					"poolAvailability": true
+				},
+				{
+					"id": 58097,
+					"airCondition": false
+				},
+				{
+					"id": 10754,
+					"extraBedFacility": false
+				}
+			],
+			"image": {
+				"id": 82888,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-8.jpg",
+				"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-8_thumb.jpg"
+			},
+			"location": {
+				"id": 89997,
+				"lat": 19.0760,
+				"lng": 72.8777,
+				"formattedAddress": "Mumbai, Maharashtra, India",
+				"zipcode": "400001",
+				"city": "Mumbai",
+				"state_long": "Maharashtra",
+				"state_short": "MH",
+				"country_long": "India",
+				"country_short": "IN"
+			},
+			"gallery": [
+				{
+					"id": 76516,
+					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-7_thumb.jpg"
+				},
+				{
+					"id": 60508,
+					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-6_thumb.jpg"
+				},
+				{
+					"id": 78119,
+					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-5_thumb.jpg"
+				}
+			],
+			"categories": [
+				{
+					"id": 6682,
+					"slug": "licensed-indian-hotel",
+					"name": "Fantastic Indian Hotel",
+					"image": {
+						"id": 58645,
+						"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-4.jpg"
+					}
+				},
+				{
+					"id": 42578,
+					"slug": "refined-indian-hotel",
+					"name": "Handcrafted Indian Hotel",
+					"image": {
+						"id": 48740,
+						"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-3.jpg"
+					}
+				}
+			]
+		},
+		{
+			"id": 336,
+			"agentId": 31401,
+			"title": "Splendid Indian Villa",
+			"slug": "quis-odio-eos-indian-villa",
+			"content": "Unde et in omnis dolorum. Et quis nesciunt ipsa enim totam sint nesciunt. Accusamus ipsam sequi est sit mollitia et impedit illo.",
+			"status": "draft",
+			"price": "124.00",
+			"isNegotiable": false,
+			"propertyType": "Villa",
+			"condition": "Average",
+			"rating": 1.5,
+			"ratingCount": 7,
+			"contactNumber": "052-241-8912 x94334",
+			"termsAndCondition": "Sit totam et sit. Modi architecto repellendus architecto excepturi cupiditate est consequatur sapiente. Minus et delectus officia doloribus quaerat culpa doloremque eum voluptas. Non odit ipsam. Nihil deserunt molestias voluptates. Quo eveniet non laboriosam ab perferendis.",
+			"amenities": [
+				{
+					"id": 65951,
+					"guestRoom": 4
+				},
+				{
+					"id": 44167,
+					"bedRoom": 2
+				},
+				{
+					"id": 67016,
+					"wifiAvailability": true
+				},
+				{
+					"id": 75745,
+					"parkingAvailability": true
+				},
+				{
+					"id": 78273,
+					"poolAvailability": false
+				},
+				{
+					"id": 50088,
+					"airCondition": true
+				},
+				{
+					"id": 21272,
+					"extraBedFacility": true
+				}
+			],
+			"image": {
+				"id": 97137,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-2.jpg",
+				"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-2_thumb.jpg"
+			},
+			"location": {
+				"id": 1879,
+				"lat": 28.6139,
+				"lng": 77.2090,
+				"formattedAddress": "New Delhi, Delhi, India",
+				"zipcode": "110001",
+				"city": "New Delhi",
+				"state_long": "Delhi",
+				"state_short": "DL",
+				"country_long": "India",
+				"country_short": "IN"
+			},
+			"gallery": [
+				{
+					"id": 91692,
+					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-1_thumb.jpg"
+				},
+				{
+					"id": 46703,
+					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-20_thumb.jpg"
+				},
+				{
+					"id": 5371,
+					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-19_thumb.jpg"
+				}
+			],
+			"categories": [
+				{
+					"id": 69742,
+					"slug": "rustic-indian-hotel",
+					"name": "Generic Indian Hotel",
+					"image": {
+						"id": 79256,
+						"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-18.jpg"
+					}
+				},
+				{
+					"id": 61070,
+					"slug": "gorgeous-indian-hotel",
+					"name": "Rustic Indian Hotel",
+					"image": {
+						"id": 91433,
+						"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-17.jpg"
+					}
+				}
+			] 	
+		},
+		
+			{
+			  "id": 67095,
+			  "agentId": 19470,
+			  "title": "Luxurious Beach Resort",
+			  "slug": "luxurious-beach-resort",
+			  "content": "Experience the ultimate luxury at our beach resort. Enjoy breathtaking views of the Indian Ocean and indulge in world-class amenities. Unwind and relax in style.",
+			  "status": "draft",
+			  "price": "668.00",
+			  "isNegotiable": true,
+			  "propertyType": "Villa",
+			  "condition": "Good",
+			  "rating": 4.2,
+			  "ratingCount": 10,
+			  "contactNumber": "(316) 526-9578 x2216",
+			  "termsAndCondition": "Terms and conditions apply. Please contact us for more information.",
+			  "amenities": [
+				{
+				  "id": 14110,
+				  "guestRoom": 6
+				},
+				{
+				  "id": 96462,
+				  "bedRoom": 6
+				},
+				{
+				  "id": 17813,
+				  "wifiAvailability": true
+				},
+				{
+				  "id": 11488,
+				  "parkingAvailability": true
+				},
+				{
+				  "id": 94497,
+				  "poolAvailability": true
+				},
+				{
+				  "id": 91459,
+				  "airCondition": false
+				},
+				{
+				  "id": 37586,
+				  "extraBedFacility": false
+				}
+			  ],
+			  "image": {
+				"id": 25935,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-16.jpg",
+				"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-16_thumb.jpg"
+			  },
+			  "location": {
+				"id": 9304,
+				"lat": 19.0760,
+				"lng": 72.8777,
+				"formattedAddress": "Mumbai, Maharashtra, India",
+				"zipcode": "400001",
+				"city": "Mumbai",
+				"state_long": "Maharashtra",
+				"state_short": "MH",
+				"country_long": "India",
+				"country_short": "IN"
+			  },
+			  "gallery": [
+				{
+				  "id": 9500,
+				  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-15_thumb.jpg"
+				},
+				{
+				  "id": 49786,
+				  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-14_thumb.jpg"
+				},
+				{
+				  "id": 6738,
+				  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-13_thumb.jpg"
+				}
+			  ],
+			  "categories": [
+				{
+				  "id": 17078,
+				  "slug": "beach-resort",
+				  "name": "Beach Resort",
+				  "image": {
+					"id": 85698,
+					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-12.jpg"
+				  }
+				},
+				{
+				  "id": 22123,
+				  "slug": "luxury-hotel",
+				  "name": "Luxury Hotel",
+				  "image": {
+					"id": 46169,
+					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-11.jpg"
+				  }
+				}
+			  ]
+			},
+			{
+			  "id": 55866,
+			  "agentId": 18823,
+			  "title": "Heritage Palace Hotel",
+			  "slug": "heritage-palace-hotel",
+			  "content": "Step into a world of opulence and grandeur at our heritage palace hotel. Experience the rich history and regal charm of India's royal past.",
+			  "status": "draft",
+			  "price": "405.00",
+			  "isNegotiable": false,
+			  "propertyType": "Hotel",
+			  "condition": "Average",
+			  "rating": 4.0,
+			  "ratingCount": 129,
+			  "contactNumber": "1-045-434-6213 x3625",
+			  "termsAndCondition": "Terms and conditions apply. Please contact us for more information.",
+			  "amenities": [
+				{
+				  "id": 61423,
+				  "guestRoom": 6
+				},
+				{
+				  "id": 97776,
+				  "bedRoom": 4
+				},
+				{
+				  "id": 61715,
+				  "wifiAvailability": false
+				},
+				{
+				  "id": 65035,
+				  "parkingAvailability": false
+				},
+				{
+				  "id": 56208,
+				  "poolAvailability": false
+				},
+				{
+				  "id": 13028,
+				  "airCondition": true
+				},
+				{
+				  "id": 62345,
+				  "extraBedFacility": true
+				}
+			  ],
+			  "image": {
+				"id": 80556,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-10.jpg",
+				"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-10_thumb.jpg"
+			  },
+			  "location": {
+				"id": 86829,
+				"lat": 28.6139,
+				"lng": 77.2090,
+				"formattedAddress": "New Delhi, Delhi, India",
+				"zipcode": "110001",
+				"city": "New Delhi",
+				"state_long": "Delhi",
+				"state_short": "DL",
+				"country_long": "India",
+				"country_short": "IN"
+			  },
+			  "gallery": [
+				{
+				  "id": 58430,
+				  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-9_thumb.jpg"
+				},
+				{
+				  "id": 41380,
+				  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-8_thumb.jpg"
+				},
+				{
+				  "id": 58941,
+				  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-7_thumb.jpg"
+				}
+			  ],
+			  "categories": [
+				{
+				  "id": 85376,
+				  "slug": "heritage",
+				  "name": "Heritage",
+				  "image": {
+					"id": 71908,
+					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-6.jpg"
+				  }
+				},
+				{
+				  "id": 90306,
+				  "slug": "luxury-hotel",
+				  "name": "Luxury Hotel",
+				  "image": {
+					"id": 85250,
+					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-5.jpg"
+				  }
+				}
+			  ]
+			},
+			{
+			  "id": 48525,
+			  "agentId": 8782,
+			  "title": "Mountain View Retreat",
+			  "slug": "mountain-view-retreat",
+			  "content": "Escape to the serene beauty of the mountains at our exclusive retreat. Immerse yourself in nature and enjoy panoramic views of the breathtaking Himalayas.",
+			  "status": "draft",
+			  "price": "117.00",
+			  "isNegotiable": true,
+			  "propertyType": "Villa",
+			  "condition": "Terrible",
+			  "rating": 2.0,
+			  "ratingCount": 3,
+			  "contactNumber": "(040) 889-5612 x005",
+			  "termsAndCondition": "Terms and conditions apply. Please contact us for more information.",
+			  "amenities": [
+				{
+				  "id": 82657,
+				  "guestRoom": 1
+				},
+				{
+				  "id": 83973,
+				  "bedRoom": 8
+				},
+				{
+				  "id": 69844,
+				  "wifiAvailability": true
+				},
+				{
+				  "id": 87969,
+				  "parkingAvailability": true
+				},
+				{
+				  "id": 52996,
+				  "poolAvailability": true
+				},
+				{
+				  "id": 30018,
+				  "airCondition": false
+				},
+				{
+				  "id": 59184,
+				  "extraBedFacility": false
+				}
+			  ],
+			  "image": {
+				"id": 32140,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-4.jpg",
+				"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-4_thumb.jpg"
+			  },
+			  "location": {
+				"id": 17324,
+				"lat": 32.2407,
+				"lng": 77.1857,
+				"formattedAddress": "Manali, Himachal Pradesh, India",
+				"zipcode": "175131",
+				"city": "Manali",
+				"state_long": "Himachal Pradesh",
+				"state_short": "HP",
+				"country_long": "India",
+				"country_short": "IN"
+			  },
+			  "gallery": [
+				{
+				  "id": 23103,
+				  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-3_thumb.jpg"
+				},
+				{
+				  "id": 8504,
+				  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-2_thumb.jpg"
+				},
+				{
+				  "id": 67754,
+				  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-1_thumb.jpg"
+				}
+			  ],
+			  "categories": [
+				{
+				  "id": 43925,
+				  "slug": "mountain-retreat",
+				  "name": "Mountain Retreat",
+				  "image": {
+					"id": 94478,
+					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-20.jpg"
+				  }
+				},
+				{
+				  "id": 47437,
+				  "slug": "nature-resort",
+				  "name": "Nature Resort",
+				  "image": {
+					"id": 6959,
+					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-19.jpg"
+				  }
+				}
+			  ]
+			},
+			{
+			  "id": 65362,
+			  "agentId": 2125,
+			  "title": "City Center Boutique Hotel",
+			  "slug": "city-center-boutique-hotel",
+			  "content": "Discover the vibrant city life at our boutique hotel located in the heart of the bustling city center. Experience the perfect blend of luxury and convenience.",
+			  "status": "draft",
+			  "price": "5500.00",
+			  "isNegotiable": true,
+			  "propertyType": "Hotel",
+			  "condition": "Excellent",
+			  "rating": 4.8,
+			  "ratingCount": 20,
+			  "contactNumber": "1-403-000-9038 x910",
+			  "termsAndCondition": "Terms and conditions apply. Please contact us for more information.",
+			  "amenities": [
+				{
+				  "id": 53018,
+				  "guestRoom": 5
+				},
+				{
+				  "id": 22863,
+				  "bedRoom": 2
+				},
+				{
+				  "id": 11895,
+				  "wifiAvailability": true
+				},
+				{
+				  "id": 14671,
+				  "parkingAvailability": true
+				},
+				{
+				  "id": 25396,
+				  "poolAvailability": true
+				},
+				{
+				  "id": 89598,
+				  "airCondition": false
+				},
+				{
+				  "id": 57105,
+				  "extraBedFacility": true
+				}
+			  ],
+			  "image": {
+				"id": 41632,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-18.jpg",
+				"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-18_thumb.jpg"
+			  },
+			  "location": {
+				"id": 48797,
+				"lat": 28.7041,
+				"lng": 77.1025,
+				"formattedAddress": "New Delhi, Delhi, India",
+				"zipcode": "110001",
+				"city": "New Delhi",
+				"state_long": "Delhi",
+				"state_short": "DL",
+				"country_long": "India",
+				"country_short": "IN"
+			  },
+			  "gallery": [
+				{
+				  "id": 49921,
+				  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-17_thumb.jpg"
+				},
+				{
+				  "id": 43045,
+				  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-16_thumb.jpg"
+				},
+				{
+				  "id": 19843,
+				  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-15_thumb.jpg"
+				}
+			  ],
+			  "categories": [
+				{
+				  "id": 15109,
+				  "slug": "boutique-hotel",
+				  "name": "Boutique Hotel",
+				  "image": {
+					"id": 99921,
+					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-14.jpg"
+				  }
+				},
+				{
+				  "id": 85959,
+				  "slug": "city-center",
+				  "name": "City Center",
+				  "image": {
+					"id": 30943,
+					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-13.jpg"
+				  }
+				}
+			  ]
+			},
+			{
+			  "id": 2654,
+			  "agentId": 49188,
+			  "title": "Beachfront Resort",
+			  "slug": "beachfront-resort",
+			  "content": "Indulge in the ultimate beach getaway at our luxurious beachfront resort. Experience the pristine sandy beaches and crystal clear waters of the Indian Ocean.",
+			  "status": "publish",
+			  "price": "834.00",
+			  "isNegotiable": false,
+			  "propertyType": "Hotel",
+			  "condition": "Excellent",
+			  "rating": 4.5,
+			  "ratingCount": 30,
+			  "contactNumber": "1-501-245-2471 x63314",
+			  "termsAndCondition": "Terms and conditions apply. Please contact us for more information.",
+			  "amenities": [
+				{
+				  "id": 31761,
+				  "guestRoom": 1
+				},
+				{
+				  "id": 99825,
+				  "bedRoom": 5
+				},
+				{
+				  "id": 90632,
+				  "wifiAvailability": true
+				},
+				{
+				  "id": 74163,
+				  "parkingAvailability": true
+				},
+				{
+				  "id": 11743,
+				  "poolAvailability": false
+				},
+				{
+				  "id": 18182,
+				  "airCondition": false
+				},
+				{
+				  "id": 69277,
+				  "extraBedFacility": true
+				}
+			  ],
+			  "image": {
+				"id": 78004,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-12.jpg",
+				"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-12_thumb.jpg"
+			  },
+			  "location": {
+				"id": 60343,
+				"lat": 8.7832,
+				"lng": 77.7275,
+				"formattedAddress": "Goa, India",
+				"zipcode": "403519",
+				"city": "Goa",
+				"state_long": "Goa",
+				"state_short": "GA",
+				"country_long": "India",
+				"country_short": "IN"
+			  },
+			  "gallery": [
+				{
+				  "id": 31596,
+				  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-11_thumb.jpg"
+				},
+				{
+				  "id": 51643,
+				  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-10_thumb.jpg"
+				},
+				{
+				  "id": 83948,
+				  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-9_thumb.jpg"
+				}
+			  ],
+			  "categories": [
+				{
+				  "id": 20450,
+				  "slug": "beach-resort",
+				  "name": "Beach Resort",
+				  "image": {
+					"id": 28297,
+					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-8.jpg"
+				  }
+				},
+				{
+				  "id": 84969,
+				  "slug": "luxury-resort",
+				  "name": "Luxury Resort",
+				  "image": {
+					"id": 75368,
+					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-7.jpg"
+				  }
+				}
+			  ]
+			},
+			{
+			  "id": 40688,
+			  "agentId": 22661,
+			  "title": "Heritage Palace",
+			  "slug": "heritage-palace",
+			  "content": "Step into a world of royalty and luxury at our magnificent heritage palace. Experience the grandeur of Indian architecture and immerse yourself in regal opulence.",
+			  "status": "draft",
+			  "price": "559.00",
+			  "isNegotiable": true,
+			  "propertyType": "Hotel",
+			  "condition": "Excellent",
+			  "rating": 4.9,
+			  "ratingCount": 12,
+			  "contactNumber": "1-755-332-9657 x8182",
+			  "termsAndCondition": "Terms and conditions apply. Please contact us for more information.",
+			  "amenities": [
+				{
+				  "id": 46526,
+				  "guestRoom": 5
+				},
+				{
+				  "id": 79521,
+				  "bedRoom": 4
+				},
+				{
+				  "id": 91279,
+				  "wifiAvailability": false
+				},
+				{
+				  "id": 96730,
+				  "parkingAvailability": false
+				},
+				{
+				  "id": 33662,
+				  "poolAvailability": false
+				},
+				{
+				  "id": 54057,
+				  "airCondition": false
+				},
+				{
+				  "id": 31656,
+				  "extraBedFacility": true
+				}
+			  ],
+			  "image": {
+				"id": 36025,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-6.jpg",
+				"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-6_thumb.jpg"
+			  },
+			  "location": {
+				"id": 44703,
+				"lat": 26.9124,
+				"lng": 75.7873,
+				"formattedAddress": "Jaipur, Rajasthan, India",
+				"zipcode": "302001",
+				"city": "Jaipur",
+				"state_long": "Rajasthan",
+				"state_short": "RJ",
+				"country_long": "India",
+				"country_short": "IN"
+			  },
+			  "gallery": [
+				{
+				  "id": 37129,
+				  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-5_thumb.jpg"
+				},
+				{
+				  "id": 62354,
+				  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-4_thumb.jpg"
+				},
+				{
+				  "id": 40936,
+				  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-3_thumb.jpg"
+				}
+			  ],
+			  "categories": [
+				{
+				  "id": 68406,
+				  "slug": "heritage",
+				  "name": "Heritage",
+				  "image": {
+					"id": 23784,
+					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-2.jpg"
+				  }
+				},
+				{
+				  "id": 92475,
+				  "slug": "luxury-hotel",
+				  "name": "Luxury Hotel",
+				  "image": {
+					"id": 93408,
+					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-1.jpg"
+				  }
+				}
+			  ]
+			},
+			
+				{
+				  "id": 84153,
+				  "agentId": 7896,
+				  "title": "Luxurious Indian Retreat",
+				  "slug": "luxurious-indian-retreat",
+				  "content": "Escape to a luxurious retreat in the heart of India. Experience the rich culture, vibrant traditions, and warm hospitality. Indulge in the finest amenities and savor the flavors of authentic Indian cuisine. Unwind in the serene surroundings and create unforgettable memories.",
+				  "status": "draft",
+				  "price": "204.00",
+				  "isNegotiable": false,
+				  "propertyType": "Hotel",
+				  "condition": "Average",
+				  "rating": 4.76,
+				  "ratingCount": 11,
+				  "contactNumber": "1-681-944-4017",
+				  "termsAndCondition": "Ut asperiores sequi perspiciatis. Amet est id a voluptates. Culpa id sint tempore.",
+				  "amenities": [
+					{
+					  "id": 89101,
+					  "guestRoom": 1
+					},
+					{
+					  "id": 74944,
+					  "bedRoom": 8
+					},
+					{
+					  "id": 64241,
+					  "wifiAvailability": false
+					},
+					{
+					  "id": 52956,
+					  "parkingAvailability": true
+					},
+					{
+					  "id": 41424,
+					  "poolAvailability": true
+					},
+					{
+					  "id": 47176,
+					  "airCondition": false
+					},
+					{
+					  "id": 45787,
+					  "extraBedFacility": true
+					}
+				  ],
+				  "image": {
+					"id": 80393,
+					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-9.jpg",
+					"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-9_thumb.jpg"
+				  },
+				  "location": {
+					"id": 34290,
+					"lat": 28.6139,
+					"lng": 77.2090,
+					"formattedAddress": "New Delhi, India",
+					"zipcode": "110001",
+					"city": "New Delhi",
+					"state_long": "Delhi",
+					"state_short": "DL",
+					"country_long": "India",
+					"country_short": "IN"
+				  },
+				  "gallery": [
+					{
+					  "id": 37128,
+					  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-10_thumb.jpg"
+					},
+					{
+					  "id": 58920,
+					  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-11_thumb.jpg"
+					},
+					{
+					  "id": 54862,
+					  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-12_thumb.jpg"
+					}
+				  ],
+				  "categories": [
+					{
+					  "id": 60501,
+					  "slug": "Rustic",
+					  "name": "Refined",
+					  "image": {
+						"id": 22507,
+						"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-14.jpg"
+					  }
+					},
+					{
+					  "id": 53576,
+					  "slug": "Rustic",
+					  "name": "Practical",
+					  "image": {
+						"id": 47914,
+						"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-13.jpg"
+					  }
+					}
+				  ]
+				},
+				{
+				  "id": 53490,
+				  "agentId": 29682,
+				  "title": "Serenity by the Beach",
+				  "slug": "serenity-by-the-beach",
+				  "content": "Experience tranquility and breathtaking views at our beachfront retreat. Immerse yourself in the beauty of the Indian coastline and unwind in our luxurious accommodations. Enjoy a wide range of activities, from water sports to wellness treatments. Discover the perfect blend of relaxation and adventure.",
+				  "status": "publish",
+				  "price": "648.00",
+				  "isNegotiable": true,
+				  "propertyType": "Hotel",
+				  "condition": "Good",
+				  "rating": 3.9,
+				  "ratingCount": 7,
+				  "contactNumber": "791-143-5502",
+				  "termsAndCondition": "Autem earum amet. Repellat maiores eaque aut iusto debitis quas quia qui esse. Ut ut non. Necessitatibus qui commodi voluptas enim adipisci nam. Dolores laudantium et. Sit nihil error sit id voluptatem consectetur dolore aperiam qui.",
+				  "amenities": [
+					{
+					  "id": 66321,
+					  "guestRoom": 4
+					},
+					{
+					  "id": 15785,
+					  "bedRoom": 2
+					},
+					{
+					  "id": 78370,
+					  "wifiAvailability": false
+					},
+					{
+					  "id": 28568,
+					  "parkingAvailability": false
+					},
+					{
+					  "id": 56665,
+					  "poolAvailability": false
+					},
+					{
+					  "id": 54270,
+					  "airCondition": true
+					},
+					{
+					  "id": 92396,
+					  "extraBedFacility": true
+					}
+				  ],
+				  "image": {
+					"id": 31814,
+					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-15.jpg",
+					"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-15_thumb.jpg"
+				  },
+				  "location": {
+					"id": 45327,
+					"lat": 15.2993,
+					"lng": 74.1240,
+					"formattedAddress": "Goa, India",
+					"zipcode": "403001",
+					"city": "Goa",
+					"state_long": "Goa",
+					"state_short": "GA",
+					"country_long": "India",
+					"country_short": "IN"
+				  },
+				  "gallery": [
+					{
+					  "id": 86126,
+					  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-18_thumb.jpg"
+					},
+					{
+					  "id": 37165,
+					  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-17_thumb.jpg"
+					},
+					{
+					  "id": 39914,
+					  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-16_thumb.jpg"
+					}
+				  ],
+				  "categories": [
+					{
+					  "id": 26188,
+					  "slug": "Rustic",
+					  "name": "Intelligent",
+					  "image": {
+						"id": 21543,
+						"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-19.jpg"
+					  }
+					},
+					{
+					  "id": 91057,
+					  "slug": "Awesome",
+					  "name": "Unbranded",
+					  "image": {
+						"id": 87771,
+						"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-20.jpg"
+					  }
+					}
+				  ]
+				},
+				{
+				  "id": 26944,
+				  "agentId": 42889,
+				  "title": "Royal Heritage Palace",
+				  "slug": "royal-heritage-palace",
+				  "content": "Step into a world of opulence and grandeur at our royal heritage palace. Be treated like royalty as you explore the regal architecture, exquisite artworks, and lush gardens. Indulge in luxurious amenities and experience the charm of Indian hospitality. Create timeless memories in this majestic setting.",
+				  "status": "publish",
+				  "price": "648.00",
+				  "isNegotiable": true,
+				  "propertyType": "Villa",
+				  "condition": "Poor",
+				  "rating": 3.9,
+				  "ratingCount": 2,
+				  "contactNumber": "192.393.3977 x77767",
+				  "termsAndCondition": "Necessitatibus ipsum voluptas ipsum quas non aut aperiam quia accusantium. Aut rerum provident et sed quidem ut rerum repellendus ut. Est dolores velit expedita quia laboriosam officiis architecto est.",
+				  "amenities": [
+					{
+					  "id": 30765,
+					  "guestRoom": 5
+					},
+					{
+					  "id": 50946,
+					  "bedRoom": 4
+					},
+					{
+					  "id": 86998,
+					  "wifiAvailability": true
+					},
+					{
+					  "id": 40117,
+					  "parkingAvailability": true
+					},
+					{
+					  "id": 5879,
+					  "poolAvailability": true
+					},
+					{
+					  "id": 15269,
+					  "airCondition": false
+					},
+					{
+					  "id": 14320,
+					  "extraBedFacility": false
+					}
+				  ],
+				  "image": {
+					"id": 24561,
+					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-1.jpg",
+					"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-1_thumb.jpg"
+				  },
+				  "location": {
+					"id": 28783,
+					"lat": 24.5854,
+					"lng": 73.7125,
+					"formattedAddress": "Udaipur, Rajasthan, India",
+					"zipcode": "313001",
+					"city": "Udaipur",
+					"state_long": "Rajasthan",
+					"state_short": "RJ",
+					"country_long": "India",
+					"country_short": "IN"
+				  },
+				  "gallery": [
+					{
+					  "id": 54880,
+					  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-2_thumb.jpg"
+					},
+					{
+					  "id": 25028,
+					  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-3_thumb.jpg"
+					},
+					{
+					  "id": 96290,
+					  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-4_thumb.jpg"
+					}
+				  ],
+				  "categories": [
+					{
+					  "id": 92892,
+					  "slug": "Small",
+					  "name": "Practical",
+					  "image": {
+						"id": 95459,
+						"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-6.jpg"
+					  }
+					},
+					{
+					  "id": 36765,
+					  "slug": "Gorgeous",
+					  "name": "Generic",
+					  "image": {
+						"id": 66075,
+						"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-5.jpg"
+					  }
+					}
+				  ]
+				},
+				{
+				  "id": 73823,
+				  "agentId": 42648,
+				  "title": "Hillside Retreat",
+				  "slug": "hillside-retreat",
+				  "content": "Escape to a tranquil hillside retreat nestled amidst the majestic mountains of India. Immerse yourself in nature's embrace and rejuvenate your senses. Experience breathtaking views, indulge in local cuisine, and embark on exciting adventures. Discover serenity and create unforgettable memories.",
+				  "status": "draft",
+				  "price": "985.00",
+				  "isNegotiable": false,
+				  "propertyType": "Villa",
+				  "condition": "Poor",
+				  "rating": 3.5,
+				  "ratingCount": 5,
+				  "contactNumber": "1-134-303-1680",
+				  "termsAndCondition": "Repellendus qui qui porro sit vitae. Saepe cumque voluptatibus suscipit dolorem laudantium. Ab dicta aspernatur est inventore quis et. Autem nostrum quis quod sunt culpa molestias.",
+				  "amenities": [
+					{
+					  "id": 87192,
+					  "guestRoom": 3
+					},
+					{
+					  "id": 57362,
+					  "bedRoom": 2
+					},
+					{
+					  "id": 65499,
+					  "wifiAvailability": true
+					},
+					{
+					  "id": 83249,
+					  "parkingAvailability": true
+					},
+					{
+					  "id": 92113,
+					  "poolAvailability": false
+					},
+					{
+					  "id": 47896,
+					  "airCondition": true
+					},
+					{
+					  "id": 54678,
+					  "extraBedFacility": false
+					}
+				  ],
+				  "image": {
+					"id": 94036,
+					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-7.jpg",
+					"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-7_thumb.jpg"
+				  },
+				  "location": {
+					"id": 62198,
+					"lat": 11.4110,
+					"lng": 76.6956,
+					"formattedAddress": "Ooty, Tamil Nadu, India",
+					"zipcode": "643001",
+					"city": "Ooty",
+					"state_long": "Tamil Nadu",
+					"state_short": "TN",
+					"country_long": "India",
+					"country_short": "IN"
+				  },
+				  "gallery": [
+					{
+					  "id": 52194,
+					  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-8_thumb.jpg"
+					},
+					{
+					  "id": 43102,
+					  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-9_thumb.jpg"
+					},
+					{
+					  "id": 33908,
+					  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-10_thumb.jpg"
+					}
+				  ],
+				  "categories": [
+					{
+					  "id": 27186,
+					  "slug": "Small",
+					  "name": "Licensed",
+					  "image": {
+						"id": 33881,
+						"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-11.jpg"
+					  }
+					},
+					{
+					  "id": 42031,
+					  "slug": "Awesome",
+					  "name": "Awesome",
+					  "image": {
+						"id": 60759,
+						"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-12.jpg"
+					  }
+					}
+				  ]
+				},
+					{
+					  "id": 84153,
+					  "agentId": 7896,
+					  "title": "Luxurious Indian Retreat",
+					  "slug": "luxurious-indian-retreat",
+					  "content": "Escape to a luxurious retreat in the heart of India. Experience the rich culture, vibrant traditions, and warm hospitality. Indulge in the finest amenities and savor the flavors of authentic Indian cuisine. Unwind in the serene surroundings and create unforgettable memories.",
+					  "status": "draft",
+					  "price": "204.00",
+					  "isNegotiable": false,
+					  "propertyType": "Hotel",
+					  "condition": "Average",
+					  "rating": 4.76,
+					  "ratingCount": 11,
+					  "contactNumber": "1-681-944-4017",
+					  "termsAndCondition": "Ut asperiores sequi perspiciatis. Amet est id a voluptates. Culpa id sint tempore.",
+					  "amenities": [
+						{
+						  "id": 89101,
+						  "guestRoom": 1
+						},
+						{
+						  "id": 74944,
+						  "bedRoom": 8
+						},
+						{
+						  "id": 64241,
+						  "wifiAvailability": false
+						},
+						{
+						  "id": 52956,
+						  "parkingAvailability": true
+						},
+						{
+						  "id": 41424,
+						  "poolAvailability": true
+						},
+						{
+						  "id": 47176,
+						  "airCondition": false
+						},
+						{
+						  "id": 45787,
+						  "extraBedFacility": true
+						}
+					  ],
+					  "image": {
+						"id": 80393,
+						"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-9.jpg",
+						"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-9_thumb.jpg"
+					  },
+					  "location": {
+						"id": 34290,
+						"lat": 28.6139,
+						"lng": 77.2090,
+						"formattedAddress": "New Delhi, India",
+						"zipcode": "110001",
+						"city": "New Delhi",
+						"state_long": "Delhi",
+						"state_short": "DL",
+						"country_long": "India",
+						"country_short": "IN"
+					  },
+					  "gallery": [
+						{
+						  "id": 37128,
+						  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-10_thumb.jpg"
+						},
+						{
+						  "id": 58920,
+						  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-11_thumb.jpg"
+						},
+						{
+						  "id": 54862,
+						  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-12_thumb.jpg"
+						}
+					  ],
+					  "categories": [
+						{
+						  "id": 60501,
+						  "slug": "Rustic",
+						  "name": "Refined",
+						  "image": {
+							"id": 22507,
+							"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-14.jpg"
+						  }
+						},
+						{
+						  "id": 53576,
+						  "slug": "Rustic",
+						  "name": "Practical",
+						  "image": {
+							"id": 47914,
+							"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-13.jpg"
+						  }
+						}
+					  ]
+					},
+					{
+					  "id": 53490,
+					  "agentId": 29682,
+					  "title": "Serenity by the Beach",
+					  "slug": "serenity-by-the-beach",
+					  "content": "Experience tranquility and breathtaking views at our beachfront retreat. Immerse yourself in the beauty of the Indian coastline and unwind in our luxurious accommodations. Enjoy a wide range of activities, from water sports to wellness treatments. Discover the perfect blend of relaxation and adventure.",
+					  "status": "publish",
+					  "price": "648.00",
+					  "isNegotiable": true,
+					  "propertyType": "Hotel",
+					  "condition": "Good",
+					  "rating": 3.9,
+					  "ratingCount": 7,
+					  "contactNumber": "791-143-5502",
+					  "termsAndCondition": "Autem earum amet. Repellat maiores eaque aut iusto debitis quas quia qui esse. Ut ut non. Necessitatibus qui commodi voluptas enim adipisci nam. Dolores laudantium et. Sit nihil error sit id voluptatem consectetur dolore aperiam qui.",
+					  "amenities": [
+						{
+						  "id": 66321,
+						  "guestRoom": 4
+						},
+						{
+						  "id": 15785,
+						  "bedRoom": 2
+						},
+						{
+						  "id": 78370,
+						  "wifiAvailability": false
+						},
+						{
+						  "id": 28568,
+						  "parkingAvailability": false
+						},
+						{
+						  "id": 56665,
+						  "poolAvailability": false
+						},
+						{
+						  "id": 54270,
+						  "airCondition": true
+						},
+						{
+						  "id": 92396,
+						  "extraBedFacility": true
+						}
+					  ],
+					  "image": {
+						"id": 31814,
+						"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-15.jpg",
+						"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-15_thumb.jpg"
+					  },
+					  "location": {
+						"id": 45327,
+						"lat": 15.2993,
+						"lng": 74.1240,
+						"formattedAddress": "Goa, India",
+						"zipcode": "403001",
+						"city": "Goa",
+						"state_long": "Goa",
+						"state_short": "GA",
+						"country_long": "India",
+						"country_short": "IN"
+					  },
+					  "gallery": [
+						{
+						  "id": 86126,
+						  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-18_thumb.jpg"
+						},
+						{
+						  "id": 37165,
+						  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-17_thumb.jpg"
+						},
+						{
+						  "id": 39914,
+						  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-16_thumb.jpg"
+						}
+					  ],
+					  "categories": [
+						{
+						  "id": 26188,
+						  "slug": "Rustic",
+						  "name": "Intelligent",
+						  "image": {
+							"id": 21543,
+							"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-19.jpg"
+						  }
+						},
+						{
+						  "id": 91057,
+						  "slug": "Awesome",
+						  "name": "Unbranded",
+						  "image": {
+							"id": 87771,
+							"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-20.jpg"
+						  }
+						}
+					  ]
+					}
+	
+]

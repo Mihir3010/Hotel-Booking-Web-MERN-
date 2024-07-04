@@ -1,0 +1,89 @@
+[
+	{
+		"id": 85992,
+		"lat": "13.4149",
+		"lng": "8.4034",
+		"formattedAddress": "Near Bus Stand Gurgaon",
+		"zipcode": "122001",
+		"city": "Gurgaon",
+		"state_long": "Haryana",
+		"state_short": "HR",
+		"country_long": "India",
+		"country_short": "IN",
+		"locationImage": {
+			"id": 63700,
+			"url":"/images/HImages/gurgaon.png"
+			
+		},
+		"numberOfPost": 123
+	},
+	{
+		"id": 31657,
+		"lat": "-46.6464",
+		"lng": "-159.9779",
+		"formattedAddress": "South delhi ",
+		"zipcode": "110012",
+		"city": "New Delhi",
+		"state_long": "Delhi",
+		"state_short": "Dl",
+		"country_long": "India",
+		"country_short": "IN",
+		"locationImage": {
+			"id": 10311,
+			"url": "/images/HImages/pi.jpeg"
+		},
+		"numberOfPost": 10
+	},
+	{
+		"id": 87806,
+		"lat": "-59.8068",
+		"lng": "140.0707",
+		"formattedAddress": "Mall road Manali",
+		"zipcode": "175103",
+		"city": "Manali",
+		"state_long": "Himachal Pradesh",
+		"state_short": "HP",
+		"country_long": "India",
+		"country_short": "IN",
+		"locationImage": {
+			"id": 36159,
+			"url": "/images/HImages/manali.jpeg"
+		},
+		"numberOfPost": 150
+	},
+	{
+		"id": 42541,
+		"lat": "-1.6178",
+		"lng": "169.5870",
+		"formattedAddress": "Marine drive Mumbai",
+		"zipcode": "400001",
+		"city": "Mumbai",
+		"state_long": "Maharasthra",
+		"state_short": "MH",
+		"country_long": "India",
+		"country_short": "IN",
+		"locationImage": {
+			"id": 22545,
+			"url": "/images/HImages/mumbai.webp"
+		},
+		"numberOfPost": 140
+	},
+	{
+		"id": 44180,
+		"lat": "-34.3165",
+		"lng": "-178.7267",
+		"formattedAddress": "uttarakhand",
+		"zipcode": "263501",
+		"city": "Auli",
+		"state_long": "Uttarakhand",
+		"state_short": "UK",
+		"country_long": "India",
+		"country_short": "IN",
+		"locationImage": {
+			"id": 78277,
+			"url": "/images/HImages/uttarakhand.webp"
+		},
+		"numberOfPost": 230
+	}
+	
+]
